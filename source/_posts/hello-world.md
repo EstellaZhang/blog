@@ -1,9 +1,10 @@
 ---
-title: Hello World
+title: 新手入门Hexo+Github+yuque+Travis-CI搭建自动发布的静态博客系统
 ---
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
+作为一名资深程序员，怎么能没有自己的blog呢？
+赶紧行动起来吧！
 
-## Quick Start
+<!-- ## Quick Start
 
 ### Create a new post
 
@@ -35,4 +36,4 @@ More info: [Generating](https://hexo.io/docs/generating.html)
 $ hexo deploy
 ```
 
-More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
+More info: [Deployment](https://hexo.io/docs/one-command-deployment.html) -->
