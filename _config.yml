@@ -7,8 +7,8 @@ title: Estella
 subtitle: '热爱并不雷同，你有你的，我有我的'
 description: ''
 keywords:
-author: Estella Zhang
-language: en
+author: EstellaZhang
+language: zh-CN
 timezone: ''
 
 # URL
@@ -98,7 +98,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: butterfly
+theme: next
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
